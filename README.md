@@ -12,4 +12,4 @@ This is JavaScript Bookmarklet can generate DNS Prefetch Tags with 1-Click.
 # Installation
 
 Bookmark from following page.
-[https://dns-prefetch-generator.github.io](https://dns-prefetch-generator.github.io);
+[https://dns-prefetch-generator.github.io](https://dns-prefetch-generator.github.io)
