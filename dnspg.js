@@ -108,7 +108,7 @@
 			that.description.innerHTML = 'Press <span style="font-weight: bold; outline: 1px solid #FFF;">' + (that.is_mac ? 'Command + C' : 'Ctrl + C') + '</span> and paste in head tag on your code! [<a href="javascript: void(0);" id="dnspg-close">Close</a>]';
 
 			that.link_tag.rel = 'stylesheet';
-			that.link_tag.href = '//igari.github.io/DNS-Prefetch-Generator/animate.css';
+			that.link_tag.href = '//dns-prefetch-generator.github.io/animate.css';
 		},
 		generate_tag: function() {
 			var that = this;
